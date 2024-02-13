@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML_flow/mlruns/0/47d91810cf4d4f3ba40f91e8bea41375/artifacts
+end_time: 1707802819021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47d91810cf4d4f3ba40f91e8bea41375
+run_name: defiant-mole-435
+run_uuid: 47d91810cf4d4f3ba40f91e8bea41375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707802813962
+status: 3
+tags: []
+user_id: Good Morning
