@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML_flow/mlruns/0/2249bb830beb403db7a722a8b351ea33/artifacts
+end_time: 1707884549164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2249bb830beb403db7a722a8b351ea33
+run_name: nebulous-croc-265
+run_uuid: 2249bb830beb403db7a722a8b351ea33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707884531057
+status: 3
+tags: []
+user_id: Good Morning
